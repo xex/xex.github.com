@@ -9,4 +9,4 @@ GameUrl=http://127.0.0.1/
 MoneyUrl=http://127.0.0.1
 [LoginUp]
 Ver=1
-DownUrl=
+DownUrl=http://127.0.0.1/fqmir.exe
