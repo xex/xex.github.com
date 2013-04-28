@@ -1,0 +1,12 @@
+[Server]
+枫桥传奇|枫桥传奇|192.168.1.3|7000|1.85|0=三线服务器列表
+[Expand]
+三线服务器列表=1
+[Web]
+HomeUrl=http://xex.github.io/
+LogoUrl=http://xex.github.io/
+GameUrl=http://xex.github.io/
+MoneyUrl=http://xex.github.io/
+[LoginUp]
+Ver=1
+DownUrl=http://xex.github.io/枫桥传奇.exe
