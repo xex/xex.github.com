@@ -3,10 +3,10 @@
 [Expand]
 三线服务器列表=1
 [Web]
-HomeUrl=http://192.168.1.3/
-LogoUrl=http://192.168.1.3/
-GameUrl=http://192.168.1.3/
-MoneyUrl=http://192.168.1.3/
+HomeUrl=http://xex.github.io/
+LogoUrl=http://xex.github.io/
+GameUrl=http://xex.github.io/
+MoneyUrl=http://xex.github.io/
 [LoginUp]
 Ver=1
-DownUrl=http://192.168.1.3/枫桥传奇.exe
+DownUrl=http://xex.github.io/枫桥传奇.exe
